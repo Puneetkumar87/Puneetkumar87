@@ -1,3 +1,6 @@
+![Header](https://s3.amazonaws.com/ucd/1631947648964785474/814BA115178466DDD47195B23922202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
+
+
 ### Hey there, I'm Puneet  👋
 
 Welcome to my coding journey! Here's a bit about me:
